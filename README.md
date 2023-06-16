@@ -4,15 +4,15 @@
 
 <!-- Open two terminal one for backend and one for frontend -->
 
-Steps
+# STEPS TO RUN THE PROJECTS
 
-# BACKEND
+BACKEND
 1. Open a terminal cd into backend
 2. Create and activate virtualenv
 3. Install requirements.txt in your environment
 3. Run app.py using this command "python3 app.py"
 
-# FRONTEND
+FRONTEND
 1. Open a terminal cd into frontend
 2. npm init
 3. npm start
