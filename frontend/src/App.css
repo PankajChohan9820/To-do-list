@@ -1,0 +1,40 @@
+/* App.css */
+
+.header {
+  background-color: #007bff;
+  padding: 20px;
+  color: #fff;
+}
+
+.header nav ul {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.header nav ul li {
+  margin-right: 10px;
+}
+
+.header nav ul li a,
+.header nav ul li button {
+  color: #fff;
+  text-decoration: none;
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.header nav ul li a:hover,
+.header nav ul li button:hover {
+  opacity: 0.7;
+}
+
+.header nav ul li button {
+  padding: 0;
+}
+
